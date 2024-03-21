@@ -6,7 +6,7 @@ Este repositório contém um protótipo do site da Coca-Cola. O protótipo foi c
 
 ## Objetivo
 
-O objetivo deste protótipo é testar novas ideias para o site da Coca-Cola. O design do site foi feito tendo as cores vivas da Coca-Cola originais e mantendo a logotipo da Coca-Cola.
+O objetivo deste protótipo é testar novas ideias para o site da Coca-Cola. O design do site foi feito tendo as cores originais e mantendo a logotipo da Coca-Cola.
 
 ## Navegação do protótipo
 
